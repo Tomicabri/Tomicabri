@@ -55,4 +55,4 @@ React • Next.js • TypeScript • JavaScript • Firebase • SQL Server • 
 
 🌐 https://cabrignacdev.com.ar
 
-💼 LinkedIn *(agregaremos el enlace cuando lo tengas actualizado)*
+
