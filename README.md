@@ -1,16 +1,58 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Tomás Cabrignac
 
-<!--
-**Tomicabri/Tomicabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software apasionado por crear aplicaciones web modernas, intuitivas y escalables.
 
-Here are some ideas to get you started:
+Actualmente trabajo principalmente con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ React
+- ▲ Next.js
+- 📘 TypeScript
+- 🔥 Firebase
+- 🗄️ SQL Server
+- 🎨 Tailwind CSS
+- 🐙 Git & GitHub
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🏋️ Gym Management System
+Sistema completo para la administración de gimnasios con diferentes roles de usuario.
+
+**Características:**
+- Gestión de alumnos
+- Gestión de rutinas
+- Registro de pagos
+- Panel para administradores
+- Portal para profesores
+- Landing Page responsive
+
+---
+
+### 🌐 Cabrignac Dev
+
+Mi sitio web profesional donde presento mis servicios de desarrollo web.
+
+🔗 https://cabrignacdev.com.ar
+
+---
+
+### 🏡 Real Estate Web
+
+Plantilla desarrollada con Next.js y Firebase para inmobiliarias.
+
+---
+
+## 🛠 Tecnologías
+
+React • Next.js • TypeScript • JavaScript • Firebase • SQL Server • HTML • CSS • Tailwind CSS • Git • GitHub
+
+---
+
+## 📫 Contacto
+
+📧 tomas.cabrignac@gmail.com
+
+🌐 https://cabrignacdev.com.ar
+
+💼 LinkedIn *(agregaremos el enlace cuando lo tengas actualizado)*
